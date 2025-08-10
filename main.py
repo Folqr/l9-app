@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("📝 ユーザー情報入力")
+st.title("📝 ユーザーのじょーほー")
 
 # session_stateの初期化
 if 'user_name' not in st.session_state:
